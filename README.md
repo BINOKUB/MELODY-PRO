@@ -1,20 +1,23 @@
-**[CLIQUEZ ICI POUR LANCER L'APPLICATION](https://puzzle9.binokub.com/MP/)**
-
 🎵 MELODY PRO
-CLIQUEZ ICI POUR LANCER L'APPLICATION MELODY PRO est une application web interactive conçue pour les musiciens, compositeurs et étudiants souhaitant maîtriser le cycle des quintes et l'harmonie Jazz.
 
-🚀 Fonctionnalités Clés
-Nexus Harmonique Interactif : Exploration visuelle des 12 tonalités et de leurs relations.
-Trois Niveaux de Complexité : Passage instantané entre Triades, Accords de 7ème et Extensions Jazz (11e, 13e).
-Intelligence Théorique : Gestion automatique de l'orthographe musicale (dièses/bémols) selon la tonalité sélectionnée.
-Moteur de Gammes : Affichage dynamique des modes (Ionien, Lydien, Dorien, etc.) compatibles avec chaque accord.
-Standard Jazz : Implémentation de l'omission de la quinte juste pour les accords étendus afin de garantir une clarté sonore professionnelle.
-🛠️ Technologies
-HTML5 / CSS3 : Interface responsive optimisée pour ordinateur et mobile.
-JavaScript (Vanilla) : Moteur de calcul harmonique et gestion du DOM.
-Web Audio API : Synthèse sonore polyphonique pour l'écoute des accords.
-📖 Utilisation
-Ouvrez index.html (ou le lien GitHub Pages) dans votre navigateur.
-Sélectionnez un niveau de complexité en haut de l'écran.
-Cliquez sur un accord pour voir sa composition, ses voisins harmoniques et les gammes suggérées.
-Consultez l'aide intégrée (?) pour comprendre les concepts de la théorie Jazz (omission de la quinte).
+![Website](https://img.shields.io/website?url=https%3A%2F%2Fmelody-pro.binokub.com)
+
+**L'explorateur harmonique interactif pour musiciens et compositeurs.**
+
+👉 **[Accéder à l'application en direct](https://melody-pro.binokub.com)**
+
+---
+
+## ✨ Fonctionnalités
+* **Nexus Harmonique** : Navigation visuelle dans le cycle des quintes.
+* **Théorie Jazz** : Support des accords de 7ème, 9ème, 11ème et 13ème.
+* **Modes & Gammes** : Affichage dynamique des modes grecs pour chaque accord.
+* **Installation PWA** : Utilisez Melody Pro comme une application native sur iOS et Android [cite: 2026-01-09].
+
+## 🛠️ Installation pour les développeurs
+1. Clonez le dépôt : `git clone https://github.com/BINOKUB/MELODY-PRO.git`.
+2. Ouvrez `index.html` dans votre navigateur préféré.
+3. Aucune dépendance externe n'est requise (Vanille JS/HTML/CSS).
+
+## 📄 Licence
+Ce projet est sous licence MIT - voir le fichier [LICENSE](LICENSE) pour plus de détails.
