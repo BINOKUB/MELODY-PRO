@@ -31,5 +31,5 @@ Ce projet est une création originale de **BINOKUB**.
 
 * <p align="center">
   <img src="SCREENSHOT.png" alt="Melody Pro Interface" width="600">
-  > **Le Nexus Harmonique en action** : Cette interface interactive utilise le cycle des quintes pour vous permettre de naviguer entre les tonalités. En un clic, vous visualisez les triades, les accords de 7ème et les extensions Jazz (11e, 13e), tout en identifiant instantanément les modes et gammes compatibles.
+  **Le Nexus Harmonique en action** : Cette interface interactive utilise le cycle des quintes pour vous permettre de naviguer entre les tonalités. En un clic, vous visualisez les triades, les accords de 7ème et les extensions Jazz (11e, 13e), tout en identifiant instantanément les modes et gammes compatibles.
 </p>
