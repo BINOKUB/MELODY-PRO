@@ -28,3 +28,8 @@ Ce projet est une création originale de **BINOKUB**.
 
 * **Site Officiel & Blog** : [www.binokub.com](https://www.binokub.com)
 * **Concept** : Système de gestion musicale et exploration harmonique théorique.
+
+* <p align="center">
+  <img src="screenshot.png" alt="Melody Pro Interface" width="600">
+  > **Le Nexus Harmonique en action** : Cette interface interactive utilise le cycle des quintes pour vous permettre de naviguer entre les tonalités. En un clic, vous visualisez les triades, les accords de 7ème et les extensions Jazz (11e, 13e), tout en identifiant instantanément les modes et gammes compatibles.
+</p>
