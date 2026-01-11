@@ -21,3 +21,10 @@
 
 ## 📄 Licence
 Ce projet est sous licence MIT - voir le fichier [LICENSE](LICENSE) pour plus de détails.
+
+## ✍️ Crédits & Auteur
+
+Ce projet est une création originale de **BINOKUB**.
+
+* **Site Officiel & Blog** : [www.binokub.com](https://www.binokub.com)
+* **Concept** : Système de gestion musicale et exploration harmonique théorique.
