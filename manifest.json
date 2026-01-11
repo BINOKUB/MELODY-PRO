@@ -2,7 +2,7 @@
   "name": "Melody Pro",
   "short_name": "Melody",
   "id": "MELODY-PRO",
-  "scope": "/MELODY-PRO/",
+  "scope": "/",
   "start_url": "https://melody-pro.binokub.com/",
   "display": "standalone",
   "background_color": "#000000",
